@@ -61,7 +61,9 @@ targeted.
 - No ad you did not choose to watch, and no selling or sharing of your data
 - No analytics SDKs, and no ad SDK beyond the one that serves the rewarded
   videos described above
-- No in-app purchases (today; if that changes this page changes with it)
+- Nothing is sold to advertisers, and no purchase of yours is shared with us:
+  gold packs are sold and processed by Apple, and Apple tells us only that a
+  purchase completed
 
 ## Kids
 
