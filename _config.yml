@@ -1,0 +1,13 @@
+# GitHub Pages config for the Wizard's Mob Run policies site.
+# Same setup as gokfur/presidenter-policies: Cayman is a clean,
+# professional Jekyll theme that ships with GitHub Pages — no extra
+# setup, just works.
+
+title: "Wizard's Mob Run — Policies"
+description: "Privacy policy and support information for Wizard's Mob Run."
+theme: jekyll-theme-cayman
+
+# Disable Jekyll's default footer ("This site is hosted on GitHub
+# Pages") since these are App-Store-visible policy pages and the
+# extra footer copy distracts from the actual content.
+show_downloads: false
