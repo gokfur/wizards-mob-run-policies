@@ -30,13 +30,13 @@ Your progress is saved on your phone, the same way a notes app saves a note:
 - Coins, stars and best scores
 - Which levels you've unlocked
 - Your wizard colours and upgrades
-- The daily-bonus date and streak, and today's missions
+- The daily-bonus date and streak
 - Your lifetime totals and personal records (runs, gold, biggest mob, best combo)
 - Your sound, vibration, graphics, text size, hand and language choices
 
 Delete the game and all of that goes with it. We never see any of it.
 
-**RESET PROGRESS** in Settings wipes your progress, records and missions at any
+**RESET PROGRESS** in Settings wipes your progress and records at any
 time, without deleting the game. Your sound, language, text size and hand
 choices are kept, so the game still feels like yours afterwards.
 
