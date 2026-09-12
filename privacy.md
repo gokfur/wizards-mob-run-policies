@@ -4,24 +4,24 @@ title: "Privacy Policy"
 
 # Wizard's Mob Run — Privacy Policy
 
-**Last updated: 17 August 2026**
+**Last updated: 11 September 2026**
 
 Hi — we're Team Amigo, the small team behind Wizard's Mob Run. This page is
 short because the honest answer is short: **your progress stays on your phone.**
 
-No accounts. No ads. We have no servers of our own, so the game never
-talks to us at all -- there is nothing on our side to look at.
+No accounts. We have no servers of our own, so the game never talks to us at
+all -- there is nothing on our side to look at.
 
-## Right now: no ads at all
+## What the game shows today
 
-The game is in a **free launch period**. There are no ads of any kind in it --
-not banners, not videos, not between levels -- and there is nothing to buy. No
-ad network receives anything from your phone, and iOS never asks you the
-tracking question, because there is nothing to track.
+The game is in a **free launch period**: today it does not show ads and there is
+nothing to buy, so no ad network receives anything from your phone and iOS does
+not ask you the tracking question.
 
-When that changes it will change in an app update, and this page will be
-updated first. The section further down describes exactly what will happen
-then, so you can read it before it arrives.
+This describes today, not a promise about every future version. If that changes
+it changes in an app update, and this page is updated in the same update. The
+section further down already describes what would happen then, so you can read
+it before it arrives.
 
 ## What lives on your device
 
@@ -44,10 +44,14 @@ choices are kept, so the game still feels like yours afterwards.
 
 If you're signed in to Apple's Game Center, the game sends your best ENDLESS
 stage number to Apple's leaderboard so you can compare it with other players.
-That single number is the only thing that leaves your phone. It contains
+That single number is the only thing the game itself sends. It contains
 nothing personal and it's handled entirely by Apple under
 [Apple's own privacy policy](https://www.apple.com/legal/privacy/). Not signed
 in? Then nothing is sent, ever.
+
+**SHARE** on the end-of-level card makes a picture of your result and opens
+iOS's own share sheet. You choose where it goes, or you cancel. The game only
+hands the picture to iOS and never sees what you pick or who receives it.
 
 ## Later: what ads will look like
 
@@ -73,8 +77,7 @@ anything you typed, because the game never asks you for any of those.
 
 On iOS, the system will ask your permission before an advertising identifier can
 be used. **Saying no is completely fine** — the ads still work, they are just
-less targeted. That question does not appear today, because there are no ads
-today.
+less targeted. That question does not appear in a version that shows no ads.
 
 ## What we never do
 
@@ -91,7 +94,8 @@ today.
 ## Kids
 
 The game is made to be safe for all ages. During the free launch period no data
-leaves the phone at all apart from the Game Center number above. When ads
+leaves the phone at all apart from the Game Center number above, and a result
+picture only when the player shares it themselves. When ads
 arrive they will be requested in a non-personalised mode for anyone the store
 treats as a child.
 
