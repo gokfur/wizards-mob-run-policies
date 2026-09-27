@@ -18,4 +18,4 @@ thousand bridges, blast the monsters, grow the crowd, beat the boss.
 
 ---
 
-_Made by Team Amigo._
+_Made by Gokfur6ix._

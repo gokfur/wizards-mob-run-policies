@@ -2,11 +2,11 @@
 title: "Privacy Policy"
 ---
 
-# Wizard's Mob Run — Privacy Policy
+# Wizard's Mob Run Privacy Policy
 
-**Last updated: 11 September 2026**
+**Last updated: 27 September 2026**
 
-Hi — we're Team Amigo, the small team behind Wizard's Mob Run. This page is
+Hi, we are Gokfur6ix, the small team behind Wizard's Mob Run. This page is
 short because the honest answer is short: **your progress stays on your phone.**
 
 No accounts. We have no servers of our own, so the game never talks to us at
@@ -18,10 +18,9 @@ The game is in a **free launch period**: today it does not show ads and there is
 nothing to buy, so no ad network receives anything from your phone and iOS does
 not ask you the tracking question.
 
-This describes today, not a promise about every future version. If that changes
-it changes in an app update, and this page is updated in the same update. The
-section further down already describes what would happen then, so you can read
-it before it arrives.
+This describes today, not a promise about every future version. If that ever
+changes it changes in an app update, and this page is updated in the same update,
+before the new version ships.
 
 ## What lives on your device
 
@@ -32,13 +31,15 @@ Your progress is saved on your phone, the same way a notes app saves a note:
 - Your wizard colours and upgrades
 - The daily-bonus date and streak
 - Your lifetime totals and personal records (runs, gold, biggest mob, best combo)
-- Your sound, vibration, graphics, text size, hand and language choices
+- Your best ARENA wave on each map
+- Which tutorial cards you have already seen
+- Your sound, vibration, graphics, text size, button hand and language choices
 
 Delete the game and all of that goes with it. We never see any of it.
 
 **RESET PROGRESS** in Settings wipes your progress and records at any
-time, without deleting the game. Your sound, language, text size and hand
-choices are kept, so the game still feels like yours afterwards.
+time, without deleting the game. Your sound, language, text size and button
+hand choices are kept, so the game still feels like yours afterwards.
 
 ## What actually leaves your phone
 
@@ -53,51 +54,20 @@ in? Then nothing is sent, ever.
 iOS's own share sheet. You choose where it goes, or you cancel. The game only
 hands the picture to iOS and never sees what you pick or who receives it.
 
-## Later: what ads will look like
-
-**None of this is in the game yet.** It describes the update that ends the free
-launch period, written down in advance so nothing about it is a surprise.
-
-The game will stay free, so it will offer a short video in exactly three places:
-
-- to **revive** after your wizard falls,
-- to **double the gold** a level paid out, and
-- to **add gold** from the shop, as often as you like.
-
-Those three only appear if you tap to watch them.
-
-**Between levels** a short ad may also play on its own. It never interrupts a
-run, it never appears in the first three levels, and it is rate limited. There
-are **no banner ads**.
-
-The ads are served by **Unity LevelPlay** (ironSource / Unity Technologies). To
-choose an ad and pay us for it, LevelPlay receives your device type, your country
-and an advertising identifier. It does not receive your name, your email or
-anything you typed, because the game never asks you for any of those.
-
-On iOS, the system will ask your permission before an advertising identifier can
-be used. **Saying no is completely fine** — the ads still work, they are just
-less targeted. That question does not appear in a version that shows no ads.
-
 ## What we never do
 
 - No names, emails, phone numbers or contacts
 - No camera, microphone, photos or location
 - No selling or sharing of your data, and no analytics SDKs
-- No ad SDK at all during the free launch period. Afterwards, only the one that
-  serves the rewarded videos described above, and no ad you did not choose to
-  watch beyond the short between-level break
+- No ad SDKs, no ad networks and no advertising identifier
 - Nothing about you is sold to advertisers. There is nothing to buy in the game
-  today; if gold packs arrive later they are sold and processed by Apple, and
-  Apple tells us only that a purchase completed
+  today; if that ever changes, this page changes with it, in the same update
 
 ## Kids
 
-The game is made to be safe for all ages. During the free launch period no data
-leaves the phone at all apart from the Game Center number above, and a result
-picture only when the player shares it themselves. When ads
-arrive they will be requested in a non-personalised mode for anyone the store
-treats as a child.
+The game is made to be safe for all ages. No data leaves the phone at all apart
+from the Game Center number above, and a result picture only when the player
+shares it themselves.
 
 ## Your rights
 
