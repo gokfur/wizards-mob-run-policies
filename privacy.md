@@ -45,10 +45,18 @@ hand choices are kept, so the game still feels like yours afterwards.
 
 If you're signed in to Apple's Game Center, the game sends your best ENDLESS
 stage number to Apple's leaderboard so you can compare it with other players.
-That single number is the only thing the game itself sends. It contains
-nothing personal and it's handled entirely by Apple under
-[Apple's own privacy policy](https://www.apple.com/legal/privacy/). Not signed
-in? Then nothing is sent, ever.
+That single number is the only thing the game itself sends, and it goes **under
+your Game Center account**, so at Apple it is tied to that account rather than
+being anonymous. Who can see it depends on your own Game Center settings. Apple
+runs the leaderboard and the sign-in, and what Apple does with it is covered by
+[Apple's own privacy policy](https://www.apple.com/legal/privacy/). We never
+receive it. Not signed in? Then nothing is sent, ever.
+
+If a score cannot be sent right away, because you are offline or Game Center is
+still signing you in, the game keeps it on your phone and tries again later. It
+is kept with a note of whose score it is, so a score can never end up on
+somebody else's account, and RESET PROGRESS deletes it. A score Apple already
+has can only be removed by Apple.
 
 **SHARE** on the end-of-level card makes a picture of your result and opens
 iOS's own share sheet. You choose where it goes, or you cancel. The game only
@@ -57,7 +65,9 @@ hands the picture to iOS and never sees what you pick or who receives it.
 ## What we never do
 
 - No names, emails, phone numbers or contacts
-- No camera, microphone, photos or location
+- No camera, microphone or location
+- We never read your photos. The game can SAVE a result picture to your photo
+  library, and only when you choose that yourself; iOS asks you first
 - No selling or sharing of your data, and no analytics SDKs
 - No ad SDKs, no ad networks and no advertising identifier
 - Nothing about you is sold to advertisers. There is nothing to buy in the game
@@ -68,6 +78,14 @@ hands the picture to iOS and never sees what you pick or who receives it.
 The game is made to be safe for all ages. No data leaves the phone at all apart
 from the Game Center number above, and a result picture only when the player
 shares it themselves.
+
+## When you write to us
+
+The support address below is the one place where something about you can reach
+us, and only because you chose to write. An email carries whatever you put in
+it: your address, your name if you sign it, a screenshot, your device model. We
+read it, we answer it, and we keep the thread while the question is open. Please
+do not send more than the question needs.
 
 ## Your rights
 
