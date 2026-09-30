@@ -4,13 +4,14 @@ title: "Privacy Policy"
 
 # Wizard's Mob Run Privacy Policy
 
-**Last updated: 27 September 2026**
+**Last updated: 29 September 2026**
 
 Hi, we are Gokfur6ix, the small team behind Wizard's Mob Run. This page is
 short because the honest answer is short: **your progress stays on your phone.**
 
-No accounts. We have no servers of our own, so the game never talks to us at
-all -- there is nothing on our side to look at.
+No account and no sign-in on our side. We have no servers of our own, so the
+game does not talk to us at all -- there is nothing on our side to look at.
+Game Center, if you use it, is Apple's and optional; see below.
 
 ## What the game shows today
 
@@ -35,7 +36,10 @@ Your progress is saved on your phone, the same way a notes app saves a note:
 - Which tutorial cards you have already seen
 - Your sound, vibration, graphics, text size, button hand and language choices
 
-Delete the game and all of that goes with it. We never see any of it.
+Delete the game and all of that goes with it **on your phone**. We never see
+any of it. Two honest exceptions, both outside the game: a device backup (iCloud
+or a computer) can hold a copy like it does for any app, and a score you sent to
+Game Center stays with Apple under your account.
 
 **RESET PROGRESS** in Settings wipes your progress and records at any
 time, without deleting the game. Your sound, language, text size and button
@@ -46,21 +50,21 @@ hand choices are kept, so the game still feels like yours afterwards.
 If you're signed in to Apple's Game Center, the game sends your best ENDLESS
 stage number to Apple's leaderboard so you can compare it with other players.
 That single number is the only thing the game itself sends, and it goes **under
-your Game Center account**, so at Apple it is tied to that account rather than
-being anonymous. Who can see it depends on your own Game Center settings. Apple
-runs the leaderboard and the sign-in, and what Apple does with it is covered by
+your Game Center account**, so at Apple it is tied to that account, not
+anonymous. Who can see it depends on your own Game Center settings. Apple runs
+the leaderboard and the sign-in; what Apple does with it is covered by
 [Apple's own privacy policy](https://www.apple.com/legal/privacy/). We never
-receive it. Not signed in? Then nothing is sent, ever.
+receive it. Not signed in? Then the game sends nothing to the leaderboard.
 
-If a score cannot be sent right away, because you are offline or Game Center is
-still signing you in, the game keeps it on your phone and tries again later. It
-is kept with a note of whose score it is, so a score can never end up on
-somebody else's account, and RESET PROGRESS deletes it. A score Apple already
-has can only be removed by Apple.
+If a score cannot be sent right away (no connection, or Game Center is still
+signing you in), the game keeps it on your phone and tries again later. It is
+kept with a note of whose score it is, so a score can never end up on somebody
+else's account, and RESET PROGRESS deletes it. A score Apple already has can
+only be removed by Apple.
 
 **SHARE** on the end-of-level card makes a picture of your result and opens
 iOS's own share sheet. You choose where it goes, or you cancel. The game only
-hands the picture to iOS and never sees what you pick or who receives it.
+hands the picture to iOS; it does not see what you pick or who receives it.
 
 ## What we never do
 
@@ -68,29 +72,44 @@ hands the picture to iOS and never sees what you pick or who receives it.
 - No camera, microphone or location
 - We never read your photos. The game can SAVE a result picture to your photo
   library, and only when you choose that yourself; iOS asks you first
-- No selling or sharing of your data, and no analytics SDKs
+- We never sell your data, and there are no analytics SDKs
 - No ad SDKs, no ad networks and no advertising identifier
 - Nothing about you is sold to advertisers. There is nothing to buy in the game
   today; if that ever changes, this page changes with it, in the same update
 
 ## Kids
 
-The game is made to be safe for all ages. No data leaves the phone at all apart
-from the Game Center number above, and a result picture only when the player
-shares it themselves.
+The game is made to be safe for all ages. The only things the game itself sends
+are the Game Center number above and a result picture, and the picture only when
+the player shares it themselves. A device backup may also hold a copy of the
+saved progress, the same as for any other app.
 
 ## When you write to us
 
 The support address below is the one place where something about you can reach
 us, and only because you chose to write. An email carries whatever you put in
-it: your address, your name if you sign it, a screenshot, your device model. We
-read it, we answer it, and we keep the thread while the question is open. Please
-do not send more than the question needs.
+it: your address, your name if you sign it, a screenshot, your device model.
+We read it, we answer it, and we keep the thread while the question is open.
+Please do not send more than the question needs. If you are writing about a
+child's game, write as the parent or guardian, and please do not send documents
+or anything that identifies the child. Ask us to delete the thread and we will.
+
+If you are in a TestFlight or development build, the SHARE DIAGNOSTICS button
+puts technical files (frame timings, errors, device and iOS version) into iOS's
+own share sheet so you can send them to us. It only runs when you tap it, it is
+not in the App Store build, and nothing is sent automatically.
 
 ## Your rights
 
-Because nothing about you ever reaches us, there is nothing for us to show
-you, correct or delete. Your save data is yours, on your device, always.
+Nothing about you reaches us on its own, so there is nothing on our side to
+show you, correct or delete, unless you wrote to us and asked us to keep it.
+Your save data is yours, on your device, always.
+
+Two things are worth saying plainly, because "delete" does not mean the same
+thing everywhere: a score that already reached Apple's leaderboard can only be
+removed by Apple, and a picture you shared or saved yourself lives wherever you
+put it. Your phone's own backup may also hold a copy of your save, because that
+is what a backup is.
 
 ## If this ever changes
 
