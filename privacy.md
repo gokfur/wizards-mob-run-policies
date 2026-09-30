@@ -49,12 +49,13 @@ hand choices are kept, so the game still feels like yours afterwards.
 
 If you're signed in to Apple's Game Center, the game sends your best ENDLESS
 stage number to Apple's leaderboard so you can compare it with other players.
-That single number is the only thing the game itself sends, and it goes **under
-your Game Center account**, so at Apple it is tied to that account, not
-anonymous. Who can see it depends on your own Game Center settings. Apple runs
-the leaderboard and the sign-in; what Apple does with it is covered by
-[Apple's own privacy policy](https://www.apple.com/legal/privacy/). We never
-receive it. Not signed in? Then the game sends nothing to the leaderboard.
+That single number is the only thing the game sends on its own; the one other
+thing that can leave your phone is a result picture, and only when you tap
+SHARE yourself. The number goes **under your Game Center account**, so at
+Apple it is tied to that account, not anonymous. Who can see it depends on
+your own Game Center settings. Apple runs the leaderboard and the sign-in;
+what Apple does with it is covered by [Apple's own privacy policy](https://www.apple.com/legal/privacy/). We never receive it. Not signed in?
+Then the game sends nothing to the leaderboard.
 
 If a score cannot be sent right away (no connection, or Game Center is still
 signing you in), the game keeps it on your phone and tries again later. It is
