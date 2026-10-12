@@ -2,7 +2,7 @@
 title: "Support"
 ---
 
-# Wizard's Mob Run — Support
+# Wizard's Mob Run Support
 
 Something broken? Something confusing? Just want to tell us the boss is too
 hard? Write to us:
@@ -21,7 +21,7 @@ We read every email. It helps a lot if you include:
 
 On your device, and only there. Coins, stars, unlocked levels, upgrades and
 wizard colours never leave your phone. If you delete the game, the save goes
-with it — there's no cloud copy to restore from, so delete with care.
+with it. There is no cloud copy to restore from, so delete with care.
 
 ### I want to start over.
 
@@ -42,5 +42,5 @@ sent anywhere.
 
 ### Something else?
 
-Email us. The more detail the better — the level number, what you tapped,
+Email us. The more detail the better: the level number, what you tapped,
 what you expected. Specific reports get fixed fastest.

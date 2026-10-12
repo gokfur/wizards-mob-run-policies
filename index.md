@@ -9,8 +9,8 @@ thousand bridges, blast the monsters, grow the crowd, beat the boss.
 
 ## Pages
 
-- **[Privacy Policy](/wizards-mob-run-policies/privacy)** — the short version: we collect nothing.
-- **[Support](/wizards-mob-run-policies/support)** — how to reach us, quick answers.
+- **[Privacy Policy](/wizards-mob-run-policies/privacy)**: the short version: we collect nothing.
+- **[Support](/wizards-mob-run-policies/support)**: how to reach us, quick answers.
 
 ## Contact
 

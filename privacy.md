@@ -1,16 +1,15 @@
 ---
 title: "Privacy Policy"
 ---
+# Privacy Policy: Wizard's Mob Run
 
-# Wizard's Mob Run Privacy Policy
-
-**Last updated: 29 September 2026**
+**Last updated: 30 September 2026**
 
 Hi, we are Gokfur6ix, the small team behind Wizard's Mob Run. This page is
 short because the honest answer is short: **your progress stays on your phone.**
 
 No account and no sign-in on our side. We have no servers of our own, so the
-game does not talk to us at all -- there is nothing on our side to look at.
+game does not talk to us at all. There is nothing on our side to look at.
 Game Center, if you use it, is Apple's and optional; see below.
 
 ## What the game shows today
@@ -42,8 +41,9 @@ or a computer) can hold a copy like it does for any app, and a score you sent to
 Game Center stays with Apple under your account.
 
 **RESET PROGRESS** in Settings wipes your progress and records at any
-time, without deleting the game. Your sound, language, text size and button
-hand choices are kept, so the game still feels like yours afterwards.
+time, without deleting the game. Your sound, vibration, graphics, text size,
+button hand and language choices are kept, so the game still feels like yours
+afterwards.
 
 ## What actually leaves your phone
 
