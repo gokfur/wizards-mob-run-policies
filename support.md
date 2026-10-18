@@ -21,7 +21,7 @@ We read every email. It helps a lot if you include:
 
 On your device, and only there. Coins, stars, unlocked levels, upgrades and
 wizard colours never leave your phone. If you delete the game, the save goes
-with it. There is no cloud copy to restore from, so delete with care.
+with it. The game keeps no cloud copy of its own, so delete with care. A device backup (iCloud or a computer) may still hold one.
 
 ### I want to start over.
 
@@ -37,8 +37,8 @@ the pause card (while playing) and in Settings.
 ### What's the ENDLESS leaderboard?
 
 If you're signed in to Apple's Game Center, your best ENDLESS stage goes to
-the leaderboard so you can compare with other players. Signed out, nothing is
-sent anywhere.
+the leaderboard so you can compare with other players. Signed out, no score is
+sent.
 
 ### Something else?
 
