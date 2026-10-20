@@ -3,7 +3,7 @@ title: "Privacy Policy"
 ---
 # Privacy Policy: Wizard's Mob Run
 
-**Last updated: 18 October 2026**
+**Last updated: 19 October 2026**
 
 Hi, we are Gokfur6ix, the small team behind Wizard's Mob Run. This page is
 short because the honest answer is short: **your progress stays on your phone.**
@@ -77,10 +77,14 @@ iOS's own share sheet. You choose where it goes, or you cancel. The game hands
 iOS the picture and a short line about your result, and nothing else; it does
 not see what you pick or who receives it.
 
-In this version, **REPORT A QUESTION** on a TRIVIA result card or the pause card
-opens your own mail app with a filled-in email about that question: the question,
-the answer you marked, and a short line with the question's code, the topic, the
-level, your game language and the game version. Nothing is sent unless you press
+In this version, **REPORT A QUESTION** on a TRIVIA result card, the defeat card
+or the pause card opens your own mail app with a filled-in email about that
+question: the question, the answer the game counts as right, the door you took (or
+that you took none), and a short line with the question's code, the topic, the
+level, your game language and the game version. For a MATH question it also lists
+the numbers on both doors and a short line with the level, the door and the number
+seed, so we can rebuild exactly the same question. None of this is about you: it
+describes the question, not the player. Nothing is sent unless you press
 send yourself, and the game does not see whether you did. If the mail window
 cannot open, the same text is copied on your phone so you can paste it into an
 email yourself; copying it sends nothing. An email you send reaches us like any
