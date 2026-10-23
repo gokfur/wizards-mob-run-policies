@@ -3,7 +3,7 @@ title: "Privacy Policy"
 ---
 # Privacy Policy: Wizard's Mob Run
 
-**Last updated: 19 October 2026**
+**Last updated: 23 October 2026**
 
 Hi, we are Gokfur6ix, the small team behind Wizard's Mob Run. This page is
 short because the honest answer is short: **your progress stays on your phone.**
@@ -35,6 +35,8 @@ Your progress is saved on your phone, the same way a notes app saves a note:
 - Your best ARENA wave on each map
 - Which tutorial cards you have already seen
 - Your sound, vibration, graphics, text size, button hand and language choices
+- Which days and times you usually play, kept as a rough weekly pattern that
+  fades over a few weeks, and whether the TRIVIA reminder is on (see below)
 
 Delete the game and all of that goes with it **on your phone**. We never see
 any of it. Two honest exceptions, both outside the game: a device backup (iCloud
@@ -44,7 +46,23 @@ Game Center stays with Apple under your account.
 **RESET PROGRESS** in Settings wipes your progress and records at any
 time, without deleting the game. Your sound, vibration, graphics, text size,
 button hand and language choices are kept, so the game still feels like yours
-afterwards.
+afterwards. The play-time pattern and the TRIVIA reminder choice are kept too.
+
+## The weekly TRIVIA reminder
+
+In this version the game can remind you about TRIVIA with a notification on your
+phone: one trivia question and a line inviting you to come and answer it. It is
+off until you say yes. The game asks you first, after you have played some
+TRIVIA, and only then does iOS ask for permission.
+
+It is a local notification, made and scheduled on your phone. No server is
+involved and nothing is sent anywhere. To pick a good moment, the game looks at
+the play-time pattern above (kept only on your phone) and uses it for nothing
+else. In this version the reminder comes at most once a week, never between
+10 PM and 8 AM, and stops when you have not opened the game for two weeks.
+
+Turn it off any time with TRIVIA REMINDER in Settings, or in iOS Settings under
+Notifications.
 
 ## What actually leaves your phone
 
