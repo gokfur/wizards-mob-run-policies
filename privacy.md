@@ -36,7 +36,8 @@ Your progress is saved on your phone, the same way a notes app saves a note:
 - Which tutorial cards you have already seen
 - Your sound, vibration, graphics, text size, button hand and language choices
 - Which days and times you usually play, kept as a rough weekly pattern that
-  fades over a few weeks, and whether the TRIVIA reminder is on (see below)
+  fades over a few weeks, and whether the TRIVIA reminder is on (NOTIFICATIONS,
+  see below)
 
 Delete the game and all of that goes with it **on your phone**. We never see
 any of it. Two honest exceptions, both outside the game: a device backup (iCloud
@@ -51,9 +52,10 @@ afterwards. The play-time pattern and the TRIVIA reminder choice are kept too.
 ## The weekly TRIVIA reminder
 
 In this version the game can remind you about TRIVIA with a notification on your
-phone: one trivia question and a line inviting you to come and answer it. It is
-off until you say yes. The game asks you first, after you have played some
-TRIVIA, and only then does iOS ask for permission.
+phone: one trivia question and a line inviting you to come and answer it. After
+you have played some TRIVIA, the game asks iOS for permission once. The reminder
+is on by default only once you allow it in iOS; if you do not, nothing is sent
+and the game does not ask again.
 
 It is a local notification, made and scheduled on your phone. No server is
 involved and nothing is sent anywhere. To pick a good moment, the game looks at
@@ -61,7 +63,7 @@ the play-time pattern above (kept only on your phone) and uses it for nothing
 else. In this version the reminder comes at most once a week, never between
 10 PM and 8 AM, and stops when you have not opened the game for two weeks.
 
-Turn it off any time with TRIVIA REMINDER in Settings, or in iOS Settings under
+Turn it off any time with NOTIFICATIONS in Settings, or in iOS Settings under
 Notifications.
 
 ## What actually leaves your phone
