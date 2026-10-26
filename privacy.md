@@ -3,7 +3,7 @@ title: "Privacy Policy"
 ---
 # Privacy Policy: Wizard's Mob Run
 
-**Last updated: 25 October 2026**
+**Last updated: 26 October 2026**
 
 Hi, we are Gokfur6ix, the small team behind Wizard's Mob Run. This page is
 short because the honest answer is short: **your progress stays on your phone.**
@@ -36,8 +36,8 @@ Your progress is saved on your phone, the same way a notes app saves a note:
 - Which tutorial cards you have already seen
 - Your sound, vibration, graphics, text size, button hand and language choices
 - Which days and times you usually play, kept as a rough weekly pattern that
-  fades over a few weeks, and whether the TRIVIA reminder is on (NOTIFICATIONS,
-  see below)
+  fades over a few weeks, whether the TRIVIA reminder is on, and which reminder
+  questions were already sent so none repeats (NOTIFICATIONS, see below)
 
 Delete the game and all of that goes with it **on your phone**. We never see
 any of it. Two honest exceptions, both outside the game: a device backup (iCloud
@@ -47,7 +47,7 @@ Game Center stays with Apple under your account.
 **RESET PROGRESS** in Settings wipes your progress and records at any
 time, without deleting the game. Your sound, vibration, graphics, text size,
 button hand and language choices are kept, so the game still feels like yours
-afterwards. The play-time pattern and the TRIVIA reminder choice are kept too.
+afterwards. The play-time pattern, the TRIVIA reminder choice and the list of reminder questions already sent are kept too, so a reset does not bring the same questions back.
 
 ## The TRIVIA reminder
 
@@ -147,8 +147,11 @@ If you are in a TestFlight or development build, pressing and holding the
 version line in Settings puts technical files into iOS's own share sheet so
 you can send them to us: frame timings, error lines, the crash reports iOS
 hands the app, your device and iOS version, and, if a developer switched it
-on, a log of your steering input. It only runs when you do it yourself, it is
-not in the App Store build, and nothing is sent automatically.
+on, a log of your steering input. The same files carry short notes about when the
+TRIVIA reminder was planned and whether iOS accepted it. Those builds also have a
+TEST / NOTIFY plate in Settings that sends a test reminder to your own phone, the same
+local way. The sharing only runs when you do it yourself, none of this is in the
+App Store build, and nothing is sent automatically.
 
 ## Your rights
 
