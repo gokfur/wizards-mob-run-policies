@@ -3,7 +3,7 @@ title: "Privacy Policy"
 ---
 # Privacy Policy: Wizard's Mob Run
 
-**Last updated: 23 October 2026**
+**Last updated: 25 October 2026**
 
 Hi, we are Gokfur6ix, the small team behind Wizard's Mob Run. This page is
 short because the honest answer is short: **your progress stays on your phone.**
@@ -49,7 +49,7 @@ time, without deleting the game. Your sound, vibration, graphics, text size,
 button hand and language choices are kept, so the game still feels like yours
 afterwards. The play-time pattern and the TRIVIA reminder choice are kept too.
 
-## The weekly TRIVIA reminder
+## The TRIVIA reminder
 
 In this version the game can remind you about TRIVIA with a notification on your
 phone: one trivia question and a line inviting you to come and answer it. After
@@ -60,8 +60,10 @@ and the game does not ask again.
 It is a local notification, made and scheduled on your phone. No server is
 involved and nothing is sent anywhere. To pick a good moment, the game looks at
 the play-time pattern above (kept only on your phone) and uses it for nothing
-else. In this version the reminder comes at most once a week, never between
-10 PM and 8 AM, and stops when you have not opened the game for two weeks.
+else. In this version the reminder comes at most twice a week and never twice
+on the same day, never between
+10 PM and 8 AM by the time zone your phone had when you last opened the game,
+and stops when you have not opened the game for two weeks.
 
 Turn it off any time with NOTIFICATIONS in Settings, or in iOS Settings under
 Notifications.
