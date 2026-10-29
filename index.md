@@ -5,7 +5,7 @@ title: "Wizard's Mob Run"
 # Wizard's Mob Run
 
 A crowd-runner for iPhone and iPad. Lead your mob of wizards across the
-thousand bridges, blast the monsters, grow the crowd, beat the boss.
+bridges, blast the monsters, grow the crowd, beat the boss.
 
 ## Pages
 

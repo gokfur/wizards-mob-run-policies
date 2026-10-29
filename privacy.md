@@ -3,7 +3,7 @@ title: "Privacy Policy"
 ---
 # Privacy Policy: Wizard's Mob Run
 
-**Last updated: 26 October 2026**
+**Last updated: 28 October 2026**
 
 Hi, we are Gokfur6ix, the small team behind Wizard's Mob Run. This page is
 short because the honest answer is short: **your progress stays on your phone.**
@@ -33,6 +33,9 @@ Your progress is saved on your phone, the same way a notes app saves a note:
 - The daily-bonus date and streak
 - Your lifetime totals and personal records (runs, gold, biggest mob, best combo)
 - Your best ARENA wave on each map
+- A short one-way code of the Game Center account you signed in with last (not the
+  account itself), kept only so the game can tell when another account takes over
+  on the same phone
 - Which tutorial cards you have already seen
 - Your sound, vibration, graphics, text size, button hand and language choices
 - Which days and times you usually play, kept as a rough weekly pattern that
@@ -89,10 +92,15 @@ written review is public on the App Store page.
 If a score cannot be sent right away (no connection, or Game Center is still
 signing you in), the game keeps it on your phone and tries again later. It is
 kept with a note of whose score it is, so it is not sent under a different
-account later. One case has no note: if nobody was signed in when the record
-was set, the game cannot know whose it is, and the first account to sign in
-during that same session takes it. RESET PROGRESS deletes the kept score. A
-score Apple already has can only be removed by Apple.
+account later. The note names the account that was signed in when the record
+was set; if you had signed out by then, it names the account that was signed
+in earlier while the game was open. If a different account signs in, the kept
+score is dropped, not sent. One case has no note: if nobody had signed in at
+all since you opened the game, it cannot know whose the record is, so it only
+holds the score in the game's memory, and the first account to sign in while
+the game stays open takes it. If you close the game before anyone signs
+in, that score is dropped, not handed to whoever signs in next time. RESET PROGRESS deletes the kept score and the short code
+described in the list above. A score Apple already has can only be removed by Apple.
 
 **SHARE** on the end-of-level card makes a picture of your result and opens
 iOS's own share sheet. You choose where it goes, or you cancel. The game hands

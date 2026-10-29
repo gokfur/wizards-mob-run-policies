@@ -1,4 +1,4 @@
-# Wizard's Mob Run — policy pages
+# Wizard's Mob Run policy pages
 
 Public host for the App-Store-facing policy pages of the **Wizard's Mob Run**
 iOS game, served via GitHub Pages:
