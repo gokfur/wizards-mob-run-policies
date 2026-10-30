@@ -14,7 +14,7 @@ bridges, blast the monsters, grow the crowd, beat the boss.
 
 ## Contact
 
-**[hi.teamamigo@gmail.com](mailto:hi.teamamigo@gmail.com)**
+**[gokfurca@icloud.com](mailto:gokfurca@icloud.com)**
 
 ---
 

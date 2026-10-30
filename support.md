@@ -7,7 +7,7 @@ title: "Support"
 Something broken? Something confusing? Just want to tell us the boss is too
 hard? Write to us:
 
-**[hi.teamamigo@gmail.com](mailto:hi.teamamigo@gmail.com)**
+**[gokfurca@icloud.com](mailto:gokfurca@icloud.com)**
 
 We read every email. It helps a lot if you include:
 

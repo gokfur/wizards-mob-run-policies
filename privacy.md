@@ -3,7 +3,7 @@ title: "Privacy Policy"
 ---
 # Privacy Policy: Wizard's Mob Run
 
-**Last updated: 28 October 2026**
+**Last updated: 29 October 2026**
 
 Hi, we are Gokfur6ix, the small team behind Wizard's Mob Run. This page is
 short because the honest answer is short: **your progress stays on your phone.**
@@ -181,4 +181,4 @@ written out above. Other changes may come too; each one is written here first.
 
 ## Questions
 
-Write to us any time: **[hi.teamamigo@gmail.com](mailto:hi.teamamigo@gmail.com)**
+Write to us any time: **[gokfurca@icloud.com](mailto:gokfurca@icloud.com)**
